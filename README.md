@@ -1,16 +1,11 @@
 # ipl_master
 
-A new Flutter project.
+1. Developed a dynamic Flutter application that provides real-time IPL match predictions based on current match details, showcasing proficiency in cross-platform mobile app development.
 
-## Getting Started
+2. Implemented a secure user authentication system using Node.js and Express.js, ensuring the protection of sensitive user data and enhancing app usability.
 
-This project is a starting point for a Flutter application.
+3. Leveraged MongoDB as the database to efficiently store and manage user account information, demonstrating expertise in working with NoSQL databases.
 
-A few resources to get you started if this is your first Flutter project:
+4. Utilized Python to develop a machine learning model using a Kaggle dataset, and seamlessly integrated it into the app using FastAPI, thereby enhancing the accuracy and reliability of the match predictions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+5. Showcased a multidisciplinary skill set by combining expertise in mobile app development (Flutter), backend development (Node.js, Express.js), database management (MongoDB), and machine learning (Python, FastAPI) to deliver a comprehensive and innovative IPL match prediction application.
