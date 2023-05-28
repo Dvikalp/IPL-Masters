@@ -1,4 +1,4 @@
-# ipl_master
+# IPL Master
 
 1. Developed a dynamic Flutter application that provides real-time IPL match predictions based on current match details, showcasing proficiency in cross-platform mobile app development.
 
@@ -9,3 +9,8 @@
 4. Utilized Python to develop a machine learning model using Logistic Regression on a Kaggle dataset, and seamlessly integrated it into the app using FastAPI and Uvicorn server, thereby enhancing the accuracy and reliability of the match predictions.
 
 5. Showcased a multidisciplinary skill set by combining expertise in mobile app development (Flutter), backend development (Node.js, Express.js), database management (MongoDB), machine learning (Python, Logistic Regression), and API integration (FastAPI, Uvicorn) to deliver a comprehensive and innovative IPL match prediction application.
+
+# Running
+
+Download this project on your system -> Open server folder in terminal and run command 'npm run dev' to connect to database -> Open ml model folder in terminal and run command 'python -m uvicorn ipl_predict:app --reload' to connect to ml model -> Run the application and predict
+
