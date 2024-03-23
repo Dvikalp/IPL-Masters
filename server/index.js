@@ -6,7 +6,7 @@ const app=express();
 app.use(express.json());
 app.use(authRouter);
 
-mongoose.connect("mongodb+srv://vikalp:9459377000@cluster0.0i6kqi6.mongodb.net/?retryWrites=true&w=majority").then(()=>{
+mongoose.connect("mongodb+srv://vikalp:PASSWORD@cluster0.0i6kqi6.mongodb.net/?retryWrites=true&w=majority").then(()=>{
 console.log("Connection Successful");
 });
 
